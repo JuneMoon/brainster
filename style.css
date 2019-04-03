@@ -1,0 +1,53 @@
+#nav-logo {
+    height: 35px;
+    width: 35px;
+    margin-top: 5px; 
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    color: black;
+}
+.nav>li>a {
+    color: grey;
+}
+.bg-image {
+    background-image: url("img/mountains.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+.bg-color-ovr {
+    background-color: rgba(50, 149, 168, 0.7); 
+    height: 100%;
+} 
+#text-head {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+#img-head {
+    height: 80vh;
+}
+#btn-head {
+    background: transparent;
+    color: white;
+}
+.bg-black {
+    background-color: black;
+}
+#input-field {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.blocks {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.border {
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 5%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#blue {
+    color: rgb(50, 146, 166);
+}
